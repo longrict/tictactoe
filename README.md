@@ -15,4 +15,4 @@ This project is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaS
 
 **Acknowledgements**
 
-This project was created as part of The Odin Project.
+This project was created as part of The Odin Project course.
